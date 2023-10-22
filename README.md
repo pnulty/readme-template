@@ -1,2 +1,1 @@
-# readme-template
-template for student assignments
+# Enter your name, student number, and plagiarism declaration here.
